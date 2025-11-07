@@ -1,0 +1,1000 @@
+  543  sudo cat/etc/shado
+  544  sudo cat/etc/shadon
+  545  sudo cat/etc/shadow
+  546  sudo cat /etc/shadow
+  547  sudo chage -l herrera
+  548  sudo passwd herrera
+  549  su herrera
+  550  sudo cat /etc/shadow
+  551  sudo cat /etc/passwd
+  552  su antony
+  553  sudo passwd antony
+  554  su antony
+  555  sudo adduser Aby
+  556  sudo adduser --allow-bad-names Aby
+  557  su Aby
+  558  su
+  559  sudo su
+  560  su Aby
+  561  cd /etc/sudoers
+  562  ls -l
+  563  l -ls
+  564  cd /etc/
+  565  ls -l
+  566  sudo visudo
+  567  cd ../
+  568  pwd
+  569  sudo cat /etc/group
+  570  sudo gpasswd -Aby adm
+  571  sudo gpasswd -a Aby adm
+  572  sudo cat /etc/group
+  573  su Aby
+  574  sudo visudo
+  575  sudo /et /shadon
+  576  sudo /etc/shadow
+  577  sudo cat /etc/shadow
+  578  sudo -k
+  579  sudo cat /etc/shadow
+  580  sudo -k
+  581  sudo apt-get update
+  582  sudo -v
+  583  sudo apt-get update
+  584  sudo cat /etc/passwd
+  585  sudo apt-get install java
+  586  sudo systemctl status
+  587  sudo systemctl status ssh
+  588  sudo -l
+  589  sudo sudo -l
+  590  sudo cat /etc/group
+  591  sudo sudo cat /etc/group
+  592  su visudo
+  593  sudo visudo
+  594  sudo -k
+  595  sudo sudo cat /etc/group
+  596  sudo visudo
+  597  su Aby
+  598  ls
+  599  l -ls
+  600  sudo sudo cat /etc/group
+  601  sudo sudo cat /etc/passwd
+  602  ps -u Aby
+  603  sudo pkill -u Aby
+  604  sudo deluser --remove-home Aby
+  605  sudo delgroup Aby
+  606  sudo sudo cat /etc/passwd
+  607  sudo sudo cat /etc/group
+  608  sudo adduser USEKI
+  609  sudo adduser useki
+  610  id useki
+  611  exit
+  612  xit
+  613  exit
+  614  ls -l
+  615  exit
+  616  su useki
+  617  sudo usermod -aG sudo useki
+  618  su useki
+  619  cd ~/canny
+  620  git add asistencia/Jueves18SEP2025* asistencia/JUEVES18SEP2025* asistencia/jueves18092025*
+  621  ls -l ~/canny/asistencia
+  622  ls -l ~/canny/asistencia/asistencia
+  623  mkdir -p ~/canny/AsistenciaGit
+  624  cd ~/canny
+  625  git status
+  626  mv ~/canny/asistencia/asistencia/jueves18092025.png ~/canny/
+  627  mv ~/canny/asistencia/asistencia/JUEVES18SEP2025.png ~/canny/
+  628  mv ~/canny/asistencia/asistencia/Jueves18SEP2025.png ~/canny/
+  629  cd canny
+  630  cd ~/canny
+  631  git add jueves18092025.png JUEVES18SEP2025.png Jueves18SEP2025.png
+  632  git commit -m "Agrego asistencia del jueves 18 de septiembre 2025"
+  633  git push origin main
+  634  git rm --cached asistencia
+  635  git add asistencia/asistencia/jueves18092025.png
+  636  git add asistencia/asistencia/JUEVES18SEP2025.png
+  637  git add asistencia/asistencia/Jueves18SEP2025.png
+  638  mv ~/canny/asistencia/asistencia/jueves18092025.png ~/canny/
+  639  mv ~/canny/asistencia/asistencia/JUEVES18SEP2025.png ~/canny/
+  640  mv ~/canny/asistencia/asistencia/Jueves18SEP2025.png ~/canny/
+  641  ~/canny/asistencia/
+  642  mv ~/canny/asistencia/jueves18092025.png ~/canny/
+  643  mv ~/canny/asistencia/JUEVES18SEP2025.png ~/canny/
+  644  mv ~/canny/asistencia/Jueves18SEP2025.png ~/canny/
+  645  ls asistencia
+  646  ~/canny/asistencia/
+  647  git add asistencia/jueves18092025.png asistencia/JUEVES18SEP2025.png asistencia/Jueves18SEP2025.png
+  648  git commit -m "Agrego asistencia del jueves 18 de septiembre 2025"
+  649  git push origin main
+  650  cd ~/canny
+  651  git add TrabajosEnClase/TC19SEP2025.png
+  652  git commit -m "Agrego Trabajo en Clase TC19SEP2025"
+  653  git push origin main
+  654  git add Tareas/TAREA18092025.pdf
+  655  git commit -m "Agrego tarea TAREA18092025"
+  656  git push origin main
+  657  exit
+  658  cd ../
+  659  cd /
+  660  sudo ufw deny http
+  661  sudo ufw status
+  662  sudo ufw deny from 172.217.2.142
+  663  sudo ufw status
+  664  sudo ufw status numbered
+  665  sudo ufw delete 11 -y
+  666  sudo ufw status numbered
+  667  sudo ufw delete ALLOW 80
+  668  sudo ufw delete allow 80
+  669  sudo ufw status numbered
+  670  sudo ufw status verbose
+  671  exit
+  672  sudo ufw allow from 1758319459306
+  673  sudo ufw allow from 172.217.2.142
+  674  sudo uwf status
+  675  sudo ufw status
+  676  sudo uf allow from 172.271.2.142 to any port 22
+  677  sudo ufw allow from 172.271.2.142 to any port 22
+  678  exit
+  679  sudo ufw status
+  680  sudo ufw enable
+  681  sudo ufw disable
+  682  sudo ufw enable
+  683  sudo ufw app list
+  684  sudo nano /etc/default/ufw
+  685  sudo ufw default deny incoming
+  686  sudo ufw default allow outgoing
+  687  sudo ufw allow ssh
+  688  sudo ufw status
+  689  cd /etc
+  690  ls -l
+  691  sudo cat servicies
+  692  sudo cat services
+  693  cd ,,/
+  694  cd ../
+  695  sudo ufw allow 22
+  696  sudo ufw status
+  697  sudo ufw allow 2222
+  698  sudo ufw status
+  699  sudo ufw disable
+  700  sudo -v
+  701  sudo -k
+  702  sudo ufw status
+  703  sudo -v
+  704  sudo ufw enable
+  705  sudo ufw status
+  706  sudo ufw allow http
+  707  sudo ufw allow 80
+  708  sudo ufw allow https
+  709  sudo ufw allow 443
+  710  sudo ufw status
+  711  sudo ufw allow 6000:6007/tcp
+  712  sudo ufw allow 6000:6007/udp
+  713  sudo ufw status
+  714  ping www.https://www.uaemex.mx/
+  715  ping www.uaemex.mx
+  716  nslookup  www.uaemex.mx
+  717  ping www.youtube.com
+  718  sudo ufw allow from 172.271.2.142 to any port 22
+  719  sudo ufw allow from 172.217.2.142 to any port 22
+  720  sudo ufw status
+  721  sudo ufw allow from 172.217.2.142/24
+  722  sudo ufw status
+  723  sudo ufw allow from 172.217.2.142/31
+  724  sudo ufw status
+  725  ip addr
+  726  sudo ufw allow in on eth0 to any port 80
+  727  sudo ufw status
+  728  ip addr
+  729  sudo apt install mysql
+  730  sudo apt-get update
+  731  sudo apt install mysql
+  732  sudo apt install mysql server -y
+  733  sudo apt install mysql-server -y
+  734  exit
+  735  ufw --version
+  736  sudo apt install ufw
+  737  ufw --version
+  738  sudo ufw status verbose
+  739  sudo ufw status verbase
+  740  sudo ufw status verbose
+  741  exit
+  742  cd ~/canny
+  743  git add VIERNES19SEP2025.png
+  744  ls -l ~/canny/asistencia
+  745  git add asistencia/VIERNES19SEP2025.png
+  746  git commit -m "Asistencia VIERNES19SEP2025"
+  747  git push
+  748  git push origin main
+  749  exit
+  750  sudo adduser vega
+  751  sudo netstat -tlpn
+  752  sudo systemctl status ssh
+  753  cd /etc/ssh
+  754  ls -l
+  755  sudo nano ssh_config
+  756  sudo nano sshd_config
+  757  sudo cp /shh_config[,.back]
+  758  sudo cp /shhd_config[,.back]
+  759  sudo cp shhd_config[,.back]
+  760  sudo cp shhd_config(,.back)
+  761  sudo cp shhd_config(,.bak)
+  762  sudo cp sshd_config(,.bak)
+  763  sudo cp sshd_config[,.bak]
+  764  sudo cp sshd_config{,.bak}
+  765  ls -l
+  766  sufo nao sshd_config
+  767  sudo nano sshd_config
+  768  cd ..
+  769  sudo systemctl start ssh
+  770  sudo status ssh
+  771  sudo systemctl restart ssh
+  772  sudo systemctl status
+  773  hostname -I
+  774  ifconfig
+  775  sudo systemctl status ssh
+  776  sudo ufw status verbose
+  777  ifconfig
+  778  netstat -tlnp | grep :22
+  779  exit
+  780  sudo cat fonseca.txt
+  781  touch fonseca.txt
+  782  ls -l
+  783  touch monosaurio.txt
+  784  ls -l
+  785  sudo nano fonseca.txt
+  786  sudo nano monosaurio.txt
+  787  cat fonseca.txt
+  788  cat monosaurio.txt
+  789  cat fonseca.txt monosaurio.txt > salida.txt
+  790  ls -l
+  791  cat salida.txt
+  792  cat monosaurio.txt fonseca.txt >> salidauno.txt
+  793  ls -l
+  794  cat salidauno.txt
+  795  cat monosaurio.txt fonseca.txt >> salida.txt
+  796  ls -l
+  797  cat salida.txt
+  798  cat fonseca.txt monosaurio.txt >> salida.txt
+  799  ls -l
+  800  cat salida.txt
+  801  cat monosaurio.txt fonseca.txt >  salida.txt
+  802  cat salida.txt
+  803  cat monosaurio.txt fonseca.txt  salida.txt > output.txt
+  804  ls -l
+  805  cat output.txt
+  806  ipconfig
+  807  ifconfig
+  808  sudo apt update
+  809  sudo apt-get install openssh-server -y
+  810  sudo apt update
+  811  sudo apt install iptables
+  812  sudo iptables -nL
+  813  sudo iptables -F
+  814  sudo iptables -P INPUT DROP
+  815  sudo iptables -L -v
+  816  ifconfig
+  817  exit
+  818  exit
+  819  exit
+  820  exit
+  821  cd canny}
+  822  cd canny
+  823  git add asistencia/jueves250925.png
+  824  git add asistencia/JUEVES250925.png
+  825  git commit -m "Agrego asistencia jueves25092025"
+  826  git status
+  827  git push origin main
+  828  git remote -v
+  829  git push origin main
+  830  git remote -v
+  831  git remote set-url origin https://github.com/AlexisyahirAlvarezz/Sistemas-Operativos.git
+  832  git remote -v
+  833  git push origin main
+  834  git credential-manager reject https://github.com
+  835  git config --global credential.helper
+  836  git remote -v
+  837  git push origin main
+  838  git remote set-url origin https://github.com/AlexisyahirAlvarezz/Sistemas-Operativos-.git
+  839  git remote -v
+  840  git push origin main
+  841  git remote set-url origin https://github.com/AlexisyahirAlvarezz/Sistemas-Operativos-.git
+  842  rm -f ~/.git-credentials
+  843  git push origin main
+  844  git add asistencia/jueves250925.png
+  845  git add asistencia/JUEVES250925.png
+  846  git commit -m "Subir asistencia jueves 25 de septiembre 2025"
+  847  git status
+  848  exit
+  849  ls -l ~/canny/asistencia | grep jueves250925
+  850  ls -l ~/canny/asistencia | grep jueves250925 JUEVES250925
+  851  ls -l ~/canny/asistencia | grep jueves250925
+  852  git add asistencia/jueves250925.png 
+  853  cd ~/canny
+  854  ls asistencia/jueves250925.png
+  855  git status
+  856  git add asistencia/jueves250925.png
+  857  git add asistencia/JUEVES250925.png
+  858  git commit -m "Subo mi asistencia jueves 25 de septiembre 2025"
+  859  git push origin main
+  860  git remote -v
+  861  git add asistencia/jueves250925.png
+  862  git add asistencia/JUEVES250925.png
+  863  git commit -m "Agrego asistencia jueves 25 sep 2025"
+  864  git push origin main
+  865  git add -A
+  866  git commit -m "Agrego asistencia jueves 25 sep 2025 y actualizo eliminaciones"
+  867  exit
+  868  sudo cat /etc/passswd
+  869  cat /etc/passwd
+  870  ifconig
+  871  sudo inconfig
+  872  sudo ifconfig
+  873  cd canny
+  874  mkdir examenteorico
+  875  echo "Archivos de examen teorico" > examenTeorico/README.md
+  876  git add exmaen sistemas operativos ALEXIS YAHIR.pdf
+  877  git add "examen sistemas operativos ALEXIS YAHIR.pdf"
+  878  echo "Archivos de examen teorico" > examenteorico/README.md
+  879  git add "examen sistemas operativos ALEXIS YAHIR.pdf"
+  880  ls
+  881  git add "examenteorico/examen sistemas operativos ALEXIS YAHIR.pdf"
+  882  ls examenteorico
+  883  git add "examenteorico/exmaen sistemas operativos ALEXIS YAHIR.pdf"
+  884  git status
+  885  git commit -m "Agrego examen teorico y README"
+  886  git push origin main
+  887  exit
+  888  sudo usermod -aG sudo antonio
+  889  groups antonio
+  890  su - antonio
+  891  exit
+  892  cat /etc/passwd 
+  893  cut -d: -f1 /etc/passwd
+  894  sudo deluser --remove-home tony
+  895  sudo deluser --remove-home herrera
+  896  sudo deluser --remove-home antony
+  897  sudo deluser --remove-home tony2
+  898  sudo deluser --remove-home tony3
+  899  sudo deluser --remove-home Alvarez
+  900  sudo deluser --remove-home useki
+  901  cut -d: -f1 /etc/passwd
+  902  cat /etc/passwd 
+  903  sudo groupadd TeamScrum
+  904  sudo cat /etc/group
+  905  sudo adduser Yaned
+  906  sudo adduser yaned
+  907  cat /etc/passwd 
+  908  grep yaned /etc/passwd
+  909  sudo chfn yaned
+  910  grep yaned /etc/passwd
+  911  sudo chfn -o "aalvarezleon010@alumno.uaemex.mx" yaned
+  912  grep yaned /etc/passwd
+  913  cat /etc/passwd 
+  914  sudo usermod -l antonio  yaned
+  915  sudo usermod -d /home/antonio -m antonio
+  916  grep antonio /etc/passwd
+  917  ls /home/
+  918  sudo usermod -aG TeamScrum antonio
+  919  groups antonio
+  920  sudo chage -l antonio
+  921  sudo chage -E 2025-09-27 antonio
+  922  sudo passwd antonio
+  923  sudo chage -l antonio
+  924  su - antonio
+  925  exit
+  926  cat /etc/passwd/
+  927  cat /etc/passwd
+  928  cat /etc/gropu
+  929  cat /etc/group
+  930  sudo apt-get update
+  931  sudp apt-get install iptables
+  932  iptables -P INPUT DROP
+  933  sudo apt-get install iptables
+  934  sudo iptables -P INPUT DROP
+  935  iptables -P FORWARD DROP 
+  936  sudo iptables -P FORWARD DROP 
+  937  sudo iptables -P OUTPUT ACCEPT
+  938  sudo iptables -L
+  939  sudo iptables -F INPUT
+  940  sudo iptables -F FORWARD
+  941  sudo iptables -F OUTPUT
+  942  sudo iptables -F -t nat
+  943  sudo iptables -L
+  944  exit
+  945  cd ~/canny
+  946  ls TrabajosEnClase/TC02OCT2025*
+  947  ls asistencia/JUEVES02OCT2025*
+  948  ls TrabajosEnClase/TC02OCT2025*
+  949  ls asistencia/JUEVES02OCT2025*
+  950  ls asistencia/jueves02OCT2025*
+  951  ls asistencia/Jueves02OCT2025*
+  952  git add TrabajosEnClase/TC02OCT2025* asistencia/JUEVES02OCT2025* asistencia/Jueves02OCT2025*
+  953  git commit -m "Agrego asistencia JUEVES02OCT2025 asietncia Jueves02OCT2025 y trabajo en clase TC02OCT2025"
+  954  git push origin main
+  955  exit
+  956  iptable -L
+  957  sudo iptable -L
+  958  sudo iptables -L
+  959  sudo iptables -L -v
+  960  sudo iptables -L -n
+  961  sudo iptables -nL
+  962  sudo iptables -L -v
+  963  sudo iptables -nL
+  964  sudo iptables -P INPUT DROP 
+  965  sudo iptables -L -v
+  966  sudo iptables -A FORWARD -i eth1 -o eth0 -j ACCEPT
+  967  sudo iptables -L -v
+  968  sudo iptables -A INPUT -i eth1 -o eth0 -j ACCEPT
+  969  sudo iptables -A INPUT -i eth1 -o eth0 -j DROP
+  970  sudo iptables -A INPUT -i eth1 -o eth0 -j ACCEPT
+  971  sudo iptables -A INPUT -i eth1  -j ACCEPT
+  972  sudo iptables -L -v
+  973  sudo iptables -A INPUT -i eth1  -j DROP
+  974  sudo iptables -L -v
+  975  sudo iptables -A INPUT -i eth1 -j REJECT
+  976  sudo iptables -L -v
+  977  sudo iptables -A FORWARD -i eth0 -o eth1 -m state --state ESTABLISHED,RELATED -j ACCEPT
+  978  sudo iptables -L -v
+  979  sudo iptables -A INPUT -i eth0  -m state --state ESTABLISHED,RELATED -j ACCEPT
+  980  sudo iptables -A OUTPUT -i eth0  -m state --state ESTABLISHED,RELATED -j ACCEPT
+  981  sudo iptables -A OUTPUT o- eht1  -m state --state ESTABLISHED,RELATED -j ACCEPT
+  982  sudo iptables -A OUTPUT -o eth1  -m state --state ESTABLISHED,RELATED -j ACCEPT
+  983  sudo iptables -L -v
+  984  sudo iptables -A INPUT -i eth0 -m state --state ESTABLISHED,RELATED -j ACCEPT
+  985  sudo iptables -L -v
+  986  sudo iptables -A INPUT -i eth1 -s 0/0 -d 0/0 -j ACCEPT
+  987  sudo iptables -L -v
+  988  sudo iptables -A INPUT -i lo -s 0/0 -d 0/0 -j ACCEPT
+  989  sudo iptables -L -v
+  990  sudo iptables -A POSTROUTING -t nat -s 192.168.0.0/24 -o eth0 -j SNAT --to-source x.y.z.c 
+  991  sudo iptables -A POSTROUTING -t nat -s 1.1.1.1 -o eth0 -j SNAT --to-source x.y.z.c 
+  992  sudo iptables -A POSTROUTING -t nat -s 192.168.0.0/24 -o eth0 -j SNAT --to-source x.y.z.c 1.1.1.1
+  993  sudo iptables -A POSTROUTING -t nat -s 192.168.0.0/24 -o eth0 -j SNAT --to-source 1.1.1.1
+  994  sudo iptables -L -v
+  995  sudo iptables -L 
+  996  sudo iptables -nL
+  997  sudo iptables -t nat -L -v
+  998  sudo iptables -A PERROTING -t nat -s 192.168.0.0/24 -o eth0 -j SNAT --to-source 1.1.1.1
+  999  sudo iptables -A PREROUTING -t nat -s 192.168.0.0/24 -o eth0 -j SNAT --to-source 1.1.1.1
+ 1000  sudo iptables -A PREROUTING -t nat -s 192.168.0.0/24 -i eth1 -j SNAT --to-source 1.1.1.1
+ 1001  sudo iptables -A PREROUTING -t nat -s 192.168.0.0/24 -o eth0 -j SNAT --to-source 1.1.1.1
+ 1002  sudo iptables -A PREROUTING -t nat -s 192.168.0.0/24 -i eth1 -j SNAT --to-source 1.1.1.1
+ 1003  sudo iptables -t nat -A POSTROUTING -s 192.168.0.0/24 -o eth0 -j SNAT --to-source 1.1.1.1
+ 1004  sudo iptables -t nat -L -v
+ 1005  sudo iptables -A INPUT -t nat -s 192.168.0.0/24 -i eth1 -j SNAT --to-source 1.1.1.1
+ 1006  sudo iptables -L -v
+ 1007  sudo iptables -A INPUT -t nat -s 192.168.0.0/24 -o eth0 -j SNAT --to-source 1.1.1.1
+ 1008  sudo iptables -L -v
+ 1009  sudo iptables -A INPUT -t nat -s 192.168.0.0/24 -o eth0 -j SNAT --to-source 1.1.1.1
+ 1010  sudo iptables -A INPOUT -t nat -s 192.168.0.0/24 -o eth0 -j SNAT --to-source 1.1.1.1
+ 1011  sudo iptables -A INPUT -t nat -s 192.168.0.0/24 -o eth0 -j SNAT --to-source 1.1.1.1
+ 1012  sudo iptables -A INPUT -i eth0 -s w.x.y.x/32 -j DROP
+ 1013  sudo iptables -A INPUT -p tcp -s 0/0 -d 0/0 --destination-port 25 --syn -j ACCEPT
+ 1014  sudo iptables -A INPUT -p tcp -s 0/0 -d 0/0 --destination-port 80 --syn -j ACCEPT
+ 1015  sudo iptables -A INPUT -p tcp -s 0/0 -d 0/0 --destination-port 443 --syn -j ACCEPT
+ 1016  iptables -A INPUT -p tcp -s 0/0 -d 0/0 --destination-port 22 --syn -j ACCEPT
+ 1017  sudo iptables -A INPUT -p tcp -s 0/0 -d 0/0 --destination-port 22 --syn -j ACCEPT
+ 1018  sudo iptables -L -v
+ 1019  sudo iptables -A INPUT -p tcp -s 0/0 -d w.x.y.z/32 --destination-port 25 --syn -j ACCEPT
+ 1020  sudo iptables -A INPUT -p tcp -s 0/0 -d 0/0 --destination-port 110 --syn -j ACCEPT
+ 1021  sudo iptables -A INPUT -p tcp -s 0/0 -d 0/0 --destination-port 995 --syn -j ACCEPT
+ 1022  sudo iptables -A INPUT -p tcp -s 0/0 -d 0/0 --destination-port 143 --syn -j ACCEPT
+ 1023  sudo iptables -A INPUT -p tcp -s 0/0 -d 0/0 --destination-port 993 --syn -j ACCEPT
+ 1024  sudo iptables -L -v
+ 1025  sudo iptables -A INPUT -i eth1 -p udp  --sport 68 --dport 67 -j ACCEPT
+ 1026  sudo iptables -L -v
+ 1027  sudo iptables -A INPUT -p udp -s 200.33.146.217/32 --source-port 53 -d 0/0 -j ACCEPT
+ 1028  sudo iptables -L -v
+ 1029  sudo iptables -A INPUT -p tcp --destination-port 22 -j DROP
+ 1030  sudo iptables -A INPUT -p tcp --destination-port 23 -j DROP
+ 1031  sudo iptables -L -v
+ 1032  sudo iptables -A INPUT -p udp --destination-port 23 -j DROP
+ 1033  sudo iptables -L -v
+ 1034  sudo iptables -A INPUT -s 200.33.146.217/32 -j DROP
+ 1035  sudo iptables -L -viptables -A OUTPUT -d 200.33.146.217/32 -s 192.168.0.0/24 -j REJECT
+ 1036  iptables -A OUTPUT -d a.b.c.d -s 200.33.146.217/32 -j REJECT
+ 1037  iptables -A OUTPUT -d 200.33.146.217/32 -s 192.168.0.0/24 -j REJECT
+ 1038  sudo iptables -A OUTPUT -d 200.33.146.217/32 -s 192.168.0.0/24 -j REJECT
+ 1039  sudo iptables -L -v
+ 1040  sudo iptables -D INPUT -s 200.33.146.217/32 -j DROP
+ 1041  sudo iptables -L -v
+ 1042  sudo iptables -nL
+ 1043  sudo service iptables save
+ 1044  sudo systemctl iptables save
+ 1045  sudo servive iptables start
+ 1046  sudo service iptables start
+ 1047  sudo apt install iptables-persistent
+ 1048  sudo systemctl iptables save
+ 1049  sudo service iptables save
+ 1050  clean
+ 1051  cron
+ 1052  cron status
+ 1053  crone
+ 1054  crone status
+ 1055  sudo crone status
+ 1056  sudo service crone d status
+ 1057  sudo ps -ef grep cron
+ 1058  sudo ps -ef| grep CRON
+ 1059  sudo crontab -e
+ 1060  sudo crontab 
+ 1061  sudo crontab -e
+ 1062  cd canny
+ 1063  exit
+ 1064  cd canny
+ 1065  ls TrabajosEnClase/TC03OCT2025*
+ 1066  ls asistencia/VIERNESOCT2025*
+ 1067  ls asistencia/VIERNES03OCT2025*
+ 1068  git add TrabajosEnClase/TC03OCT2025* asistencia/VIERNES03OCT2025*
+ 1069  git commit -m "Agrego asistencia VIERNES03OCT2025* y trabajo en clase TC03OCT2025"
+ 1070  git push origin main
+ 1071  exit
+ 1072  sudo iptables -L -v -n
+ 1073  sudo iptables -A INPUT -p icmp --icmp-type echo-request -j DROP
+ 1074  sudo iptables -A INPUT -p tcp --dport 22 -j ACCEPT
+ 1075  sudo iptables -L -v -n
+ 1076  sudo iptables -D INPUT -p icmp --icmp-type echo-request -j DROP
+ 1077  sudo iptables -L -v -n
+ 1078  cd canny
+ 1079  ls Tareas/TAREA09102025*
+ 1080  git add Tareas/TAREA09102025*
+ 1081  git commit -m "Agrego mi tarea TAREA09102025"
+ 1082  git push origin main
+ 1083  exit
+ 1084  update
+ 1085  uptime
+ 1086  time
+ 1087  top}
+ 1088  top
+ 1089  top -d3
+ 1090  top -d 3
+ 1091  top -d 5
+ 1092  top 1
+ 1093  top -1
+ 1094  top n
+ 1095  top -b
+ 1096  top -u root
+ 1097  top
+ 1098  top -d 1
+ 1099  top 
+ 1100  top
+ 1101  ps
+ 1102  ps -e
+ 1103  ps -u
+ 1104  ps -u root
+ 1105  ps -o
+ 1106  ps -o s
+ 1107  ps -o l
+ 1108  ps -l
+ 1109  ps -s
+ 1110  ps -t
+ 1111  ps -m
+ 1112  ps -a
+ 1113  ps -x
+ 1114  ps -aux
+ 1115  ps -forest
+ 1116  ps -rest
+ 1117  ps -t
+ 1118  pstree
+ 1119  vmsat 
+ 1120  vmstat
+ 1121  vmstat -a
+ 1122  vmstat -f
+ 1123  vmstat -d
+ 1124  vmstat -n
+ 1125  vmstat -n 2
+ 1126  vmstat -n 1
+ 1127  vmstat 5
+ 1128  vmstat -s
+ 1129  free
+ 1130  free -s
+ 1131  free -s t
+ 1132  free -s 2
+ 1133  free -c 3
+ 1134  free -c 1
+ 1135  free -t
+ 1136  free -l
+ 1137  df }
+ 1138  df 
+ 1139  df -h
+ 1140  df -i
+ 1141  df -m
+ 1142  df -t
+ 1143  df -T
+ 1144  df -df -T
+ 1145  df -df -T hf/home
+ 1146  du/home
+ 1147  du/ home
+ 1148  du /home
+ 1149  pwd
+ 1150  cd ..
+ 1151  ls-l
+ 1152  ls -l
+ 1153  du /home
+ 1154  du -h
+ 1155  du -i
+ 1156  du -1
+ 1157  du -l
+ 1158  du -h
+ 1159  du -h /home
+ 1160  du -sh /home
+ 1161  du -m /home
+ 1162  du -k /home
+ 1163  du -all
+ 1164  pwd
+ 1165  touch hello.shh
+ 1166  touch hello.sh
+ 1167  pwd
+ 1168  cat /etc/shells
+ 1169  which bash
+ 1170  sudo su
+ 1171  sudo nano primer.sh
+ 1172  ls -l
+ 1173  time
+ 1174  ls -l
+ 1175  sudo chmod +x primer.sh
+ 1176  ls -l
+ 1177  ./primer.sh}
+ 1178  ./primer.sh
+ 1179  sudo nano primer.sh
+ 1180  ./primer.sh
+ 1181  sudo nano actualizar.sh
+ 1182  sudo chmod +x actualizar.sh
+ 1183  ./actualizar.sh
+ 1184  sudo history > comandos09OCT2025.txt 
+ 1185  exit
+ 1186  cd canny
+ 1187  history > comandos09OCT2025.txt
+ 1188  ls -l
+ 1189  git add comandos09OCT2025.txt
+ 1190  git commit -m "Agrego historial de comandos del 09 de octubre 2025"
+ 1191  git push origin main
+ 1192  ls asistencia/JUEVES09OCT2025*
+ 1193  git commit -m "Agrego asistencia JUEVES09OCT2025"
+ 1194  git add asistencia/JUEVES09OCT2025.png
+ 1195  git commit -m "Agrego asistencia JUEVES09OCT2025"
+ 1196  git push origin main
+ 1197  exit
+ 1198  cd home
+ 1199  cd
+ 1200  cd ..
+ 1201  ls -l
+ 1202  ./ actualizar.sh
+ 1203  sudo ./ actualizar.sh
+ 1204  ./ actualizar.sh
+ 1205  ./acutalizar.sh
+ 1206  sudo ./acutalizar.sh
+ 1207  sudo ./primer.sh
+ 1208  sudo ./actualizar.sh
+ 1209  sudo nano segundo.sh
+ 1210  ls -l
+ 1211  sudo chmod +x segundo.sh
+ 1212  ls -l
+ 1213  ./segundo.sh
+ 1214  sudo nano tercero.sh
+ 1215  ls -l
+ 1216  sudo chmod +x tercero.sh
+ 1217  ls -l
+ 1218  ./tercero.sh
+ 1219  sudo nano cuarto.sh
+ 1220  sudo chmod +x cuarto.sh
+ 1221  ./cuarto.sh
+ 1222  ls -l
+ 1223  ./cuarto.sh
+ 1224  sudo ./cuarto.sh
+ 1225  ./cuarto.sh
+ 1226  sudo ./cuarto.sh
+ 1227  sudo nano cuarto.sh
+ 1228  sudo ./cuarto.sh
+ 1229  ls -l
+ 1230  sudo ./cuarto.sh
+ 1231  sudo nano primer.sh
+ 1232  sudo ./primer.sh
+ 1233  sudo nano primer.sh
+ 1234  sudo ./primer.sh
+ 1235  sudo nano primer.sh
+ 1236  sudo ./primer.sh
+ 1237  exit
+ 1238  CD CANNY
+ 1239  cd canny
+ 1240  ls asistencia/VIERNES10OCT2025*
+ 1241  git add asistencia/VIERNES10OCT2025*
+ 1242  git commit -m "Agrego asistencia VIERNES10OCT2025"
+ 1243  git push origin main
+ 1244  exit
+ 1245  cd home
+ 1246  cd ..
+ 1247  ./actualizar.sh
+ 1248  sudo nano cat chivas.shh
+ 1249  sudo nano cat chivas.sh
+ 1250  sudo nano crear_usuario.sh
+ 1251  chmod +x crear_usuario.sh
+ 1252  sudo chmod +x crear_usuario.sh
+ 1253  ./crear_usuario.sh
+ 1254  sudo nano crear_usuario.sh
+ 1255  ./crear_usuario.sh
+ 1256  sudo nano crear_usuario.sh
+ 1257  ./crear_usuario.sh
+ 1258  cat IDUNICO.txt
+ 1259  cd canny
+ 1260  ls TrabajosEnClase/TC16CT2025*
+ 1261  ls TrabajosEnClase/TC16OCT2025*
+ 1262  git add TrabajosEnClase/TC16OCT2025*
+ 1263  git commit -m "Agrego mi  trabajo en clase TC16OCT2025"
+ 1264  git push origin main
+ 1265  exit
+ 1266  sudo nano llanto.sh
+ 1267  sudo nano to-do.txt
+ 1268  sudo ./llanto.sh
+ 1269  ls
+ 1270  ./llanto.sh
+ 1271  ls -l
+ 1272  sudo chmod +x llanto.sh
+ 1273  ls -l
+ 1274  ./llanto.sh
+ 1275  sudo ./llanto.sh
+ 1276  ./llanto.sh
+ 1277  sudo nano llanto.sh
+ 1278  ./llanto.sh
+ 1279  echo "¡Hola, mundo!" >> hola_mundo.txt
+ 1280  sudo nano name.sh
+ 1281  sudo chmod +x name.sh
+ 1282  ls -l
+ 1283  sudo chmod +x name.sh}
+ 1284  ./name.sh}
+ 1285  ls -l
+ 1286  ./name.sh}
+ 1287  cat nombre.txt
+ 1288  dtae
+ 1289  date
+ 1290  exit
+ 1291  nano funciones.sh
+ 1292  sudo chmod +x funciones.sh
+ 1293  ./funciones.sh
+ 1294  nano funciones.sh
+ 1295  ./funciones.sh
+ 1296  nano funciones.sh
+ 1297  ./funciones.sh
+ 1298  nano funciones.sh
+ 1299  ./funciones.sh
+ 1300  nano funciones.sh
+ 1301  ./funciones.sh
+ 1302  nano funciones.sh
+ 1303  ./funciones.sh
+ 1304  nano funciones.sh
+ 1305  ./funciones.sh
+ 1306  nano funciones.sh
+ 1307  ./funciones.sh
+ 1308  cd canny
+ 1309  ls Tareas/TAREA16OCT2025*
+ 1310  git add Tareas/TAREA16OCT2025*
+ 1311  git commit -m "Agrego Tarea de TAREA16OCT2025
+ 1312  "
+ 1313  git push origin main
+ 1314  exit
+ 1315  bash /home/alexis/canny/Tareas/backup_tarea.sh
+ 1316  ls -lh /home/alexis/canny/backups
+ 1317  bash /home/alexis/canny/Tareas/backup_tarea.sh
+ 1318  ls -lh /home/alexis/canny/dir2
+ 1319  exit
+ 1320  cd etc
+ 1321  ls -l
+ 1322  etc
+ 1323  cd etc..
+ 1324  ce etc
+ 1325  cd etc
+ 1326  cd
+ 1327  cd /
+ 1328  cd /etc
+ 1329  ls -l
+ 1330  day
+ 1331  cd canny
+ 1332  cd ..
+ 1333  cd canny
+ 1334  cd canny..
+ 1335  canny
+ 1336  cd /canny
+ 1337  vi /etc/crontab
+ 1338  nano /etc/crontab
+ 1339  nano cesar.py
+ 1340  python3 cesar_full.py
+ 1341  nano cesar_full.py
+ 1342  python3 cesar_full.py
+ 1343  nano cesar_full.py
+ 1344  exit
+ 1345  cd /home/alexis/canny
+ 1346  git init
+ 1347  git add .
+ 1348  git commit -m "Tarea de respaldos automáticos con bash y cron"
+ 1349  git remote -v
+ 1350  git push origin main
+ 1351  ls Tareas/TAREABACKUPS*
+ 1352  git add Tareas/TAREABACKUPS*
+ 1353  git commit -m "Agrego mi tarea TAREABACKUPS"
+ 1354  git push origin main
+ 1355  ls TrabajosEnClase/TC23OCT2025*
+ 1356  ls TrabajosEnClase/TC23OCT25*
+ 1357  git add TrabajosEnClase/TC23OCT2025* TC23OCT25*
+ 1358  git add TrabajosEnClase/TC23OCT2025.png TrabajosEnClase/TC23OCT25.png
+ 1359  git commit -m "Agrego trabajo en clase TC23OCT2025 y TC23OCT25"
+ 1360  git push origin main
+ 1361  git status
+ 1362  exit
+ 1363  sudo gpg --list-keys
+ 1364  sudo nano saludos1.txt
+ 1365  ls -l saludos a todos
+ 1366  ls -l 
+ 1367  sudo gpg -c salida1.txt
+ 1368  sudo gpg -c saludos1.txt
+ 1369  saludos1.txt gpg
+ 1370  ls -l
+ 1371  exit
+ 1372  ls-l
+ 1373  ls -l
+ 1374  cat saludos1.txt gpg
+ 1375  cat saludos1.txt.gpg
+ 1376  exit
+ 1377  python3 cesar_full.py
+ 1378  gpg --version
+ 1379  sudo gpg --gen-key
+ 1380  sudo gpg --full-generate-key
+ 1381  sudo gpg --list-secret-keys
+ 1382  sudo gpg --list-keys
+ 1383  sudo -K
+ 1384  ls -l
+ 1385  sudo gpg --gen-key
+ 1386  sudo gpg --full-generate-key
+ 1387  sudo gpg --list-secret-keys
+ 1388  exit
+ 1389  git add TrabajosEnClase/TC24OCT2025.png TrabajosEnClase/TC24OCT25.png TrabajoEnClase/tc24oct2025.png
+ 1390  cd ~/canny
+ 1391  git add TrabajosEnClase/TC24OCT2025.png TrabajosEnClase/TC24OCT25.png TrabajoEnClase/tc24oct2025.png
+ 1392  ls -a
+ 1393  git add TrabajosEnClase/TC24OCT2025.png TrabajosEnClase/TC24OCT25.png TrabajosEnClase/tc24oct2025.png
+ 1394  git commit -m "Agrego trabajo en clase TC24OCT2025"
+ 1395  git push origin main
+ 1396  git add asistencia/VIERNES25OCT2025.pdf
+ 1397  git commit -m "Agrego mi asistencia del dia VIERNES25OCT2025"
+ 1398  git push origin main
+ 1399  exit
+ 1400  mkdir -p ~/Escritorio/backupNov25
+ 1401  ls ~
+ 1402  nano ~/Escritorio/RespSep24.sh
+ 1403  chmod +x ~/Escritorio/RespSep24.sh
+ 1404  ls -l
+ 1405  bash ~/Escritorio/RespSep24.sh
+ 1406  ls -lh ~/Escritorio/backupNov25
+ 1407  crontab -e
+ 1408  crontab -l
+ 1409  ls -lh ~/Escritorio/backupNov25
+ 1410  crontab -l
+ 1411  ls -lh ~/Escritorio/backupNov25
+ 1412  cat ~/Escritorio/backupNov25/cronResp.log
+ 1413  ls -lh ~/Escritorio/backupNov25
+ 1414  cd ~/Sistemas-Operativos-
+ 1415  git add /home/alexis/canny/Tareas/BackupProgramadoNov25.pdf
+ 1416  cd canny
+ 1417  canny
+ 1418  cd ..
+ 1419  cd canny..
+ 1420  cd .. canny
+ 1421  cd /canny
+ 1422  cd ~/Sistemas-Operativos-
+ 1423  ls
+ 1424  cd /home/alexis/canny
+ 1425  ls Tareas/BackupProgramadoNov25*
+ 1426  git add  Tareas/BackupProgramadoNov25*
+ 1427  git commit -m "Agrego Tarea BackupProgramadoNov25"
+ 1428  git push origin main
+ 1429  cd ~/Sistemas-Operativos-
+ 1430  ls
+ 1431  cp -r ~/Escritorio/backupNov25 ~/Sistemas-Operativos-/
+ 1432  git add backupNov25
+ 1433  git commit -m "Agrego carpeta de respaldos automáticos BackupNov25"
+ 1434  git push origin main
+ 1435  git pull origin main --rebase
+ 1436  git push origin main
+ 1437  exit
+ 1438  cd ~/canny
+ 1439  ls asistencia/JUEVES30OCT2025*
+ 1440  ls TrabajosEnClase/TC30oct25*
+ 1441  ls TrabajosEnClase/tc30OCT2025*
+ 1442  ls TrabajosEnClase/TC30OCT2025*
+ 1443  git add TrabajosEnClase/TC030oct25* tc30OCT2025* TC30OCT2025* asistencia/JUEVES30OCT2025*
+ 1444  git add TrabajosEnClase/TC30oct25.jpeg TrabajosEnClase/tc30OCT2025.jpeg TrabajosEnClase/TC30OCT2025.jpeg asistencia/JUEVES30OCT2025.jpeg
+ 1445  git commit -m "Agrego trabajos en clase y asistencia del 30 de octubre de 2025"
+ 1446  git push origin main
+ 1447  exit
+ 1448  gpg man
+ 1449  man gpg
+ 1450  sudo nano documento.txt
+ 1451  sudo cat documento.txt
+ 1452  sudo cat -n documento.txt
+ 1453  sudo gpc -c documento.txt
+ 1454  sudo gpg -c documento.txt
+ 1455  ls
+ 1456  sudo cat documento.txt.gpg
+ 1457  rm documento.txt
+ 1458  ls
+ 1459  rm documento.txt
+ 1460  ls
+ 1461  gpg  documento.txt.gpg
+ 1462  ls
+ 1463  cat documento.txt
+ 1464  sudo gpc -ca documento.txt
+ 1465  gpg -ca documento.txt
+ 1466  ls
+ 1467  cat documento.txt.asc
+ 1468  gpg -h
+ 1469  sudo gpg -c --cipher-algo aes256 documento.txt
+ 1470  ls
+ 1471  cat documento.txt
+ 1472  ls -l
+ 1473  cat documento.txt
+ 1474  cat documento.txt.gpg
+ 1475  sudo nano Myper.txt
+ 1476  cat MyPer.txt
+ 1477  cat Myper.txt
+ 1478  echo "José Antonio Martínez" > YourPer.txt
+ 1479  cat YourPer.txt
+ 1480  sudo gpc -c Myper.txt
+ 1481  sudo gpg -c Myper.txt
+ 1482  ls
+ 1483  cat Myper.txt.gpg
+ 1484  gpg Myper.txt.gpg
+ 1485  sudo gpg Myper.txt.gpg
+ 1486  ls
+ 1487  cat Myper.txt.gpg
+ 1488  gpg -h
+ 1489  sudo nano weier.txt
+ 1490  gpc -ca weier.txt
+ 1491  gpg -ca weier.txt
+ 1492  ls
+ 1493  sudo gpg weir.txt
+ 1494  cat gpg weir.txt
+ 1495  ls -l
+ 1496  cat gpg weir.txt.asc
+ 1497  cat gpg weier.txt.asc
+ 1498  gpg -h
+ 1499  cd
+ 1500  ls
+ 1501  cd /..
+ 1502  gpg -h
+ 1503  cd /home/alexis/.gnupg
+ 1504  ls
+ 1505  ls -l
+ 1506  cd pubitng.kbx
+ 1507  cd ..
+ 1508  pwd
+ 1509  cd /..
+ 1510  pwd
+ 1511  cd ..
+ 1512  pwd
+ 1513  cd
+ 1514  pwd
+ 1515  gpg --full-gen-key
+ 1516  gpg -k
+ 1517  sudo gpg --export -a alexis >llaves.asc 
+ 1518  ls -l
+ 1519  pwd
+ 1520  ls -l
+ 1521  sudo gpg --import llavesHaz.asc
+ 1522  gpg -k
+ 1523  ls -l
+ 1524  gpg -k
+ 1525  exit
+ 1526  gpg -h
+ 1527  echo "Alexis Yahir Alvarez Leon" > MyPort.txt 
+ 1528  cat MyPort.txt
+ 1529  gpg -c MyPort.txt
+ 1530  gpg -d MyPort.txt.gpg
+ 1531  echo "Jose Antonio tony" > youier.txt
+ 1532  gpg -c --armor youier.txt
+ 1533  ls -l
+ 1534  cat youier.txt.asc
+ 1535  echo "Jose Antonio  y Ariadna Abigail" > weieer.txt
+ 1536  gpg -c --cipher-algo AES192 weieer.txt
+ 1537  ls -l
+ 1538  cat wieer.txt.gpg
+ 1539  sudo cat wieer.txt.gpg
+ 1540  cat weieer.txt.gpg
+ 1541  ls -lh
+ 1542  history > evidenciaGPG.txt
