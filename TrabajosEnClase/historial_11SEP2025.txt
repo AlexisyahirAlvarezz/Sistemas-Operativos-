@@ -1,0 +1,529 @@
+    1  cd ..
+    2  git config --global user.name "AlexisyahirAlvarezz"
+    3  git config --global user.email "axel2425_yair@hotmail.com"
+    4  git config --list
+    5  cd
+    6  cd ..
+    7  git clone https://github.com/AlexisyahirAlvarezz/Sistemas-Operativos-.git
+    8  cd
+    9  pwd
+   10  git clone https://github.com/AlexisyahirAlvarezz/Sistemas-Operativos-.git
+   11  cd Sistemas-Operativos-
+   12  echo "print('Hola desde WSL')" > hola.py
+   13  git add hola.py
+   14  git commit -m "Agregué archivo hola.py desde WSL"
+   15  git push origin main
+   16  exit
+   17  exit
+   18  cd canny
+   19  cd
+   20  cd ..
+   21  cd canny
+   22  nano canny.py
+   23  mkdir canny
+   24  cd canny
+   25  ls -la
+   26  sudo mkdir asistencia
+   27  ls -la
+   28  cd asistencia
+   29  git init
+   30  echo "asistencia" REAMADE.md
+   31  git add.
+   32  git add .
+   33  git add 
+   34  git init
+   35  git remote add origin https://github.com/https://github.com/AlexisyahirAlvarezz/Sistemas-Operativos.git
+   36  sudo chown -R alexis:alexis ~/canny/asistencia
+   37  git init
+   38  echo "# asistencia" > README.md
+   39  git add .
+   40  ls -la
+   41  git add 
+   42  git commit -m "jueves 28 de agosto del 2025 - asistencia"
+   43  git remote add origin https://github.com/AlexisyahirAlvarezz/Sistemas-Operativos.git
+   44  git remote -v
+   45  git branch -M main
+   46  git push -u origin main
+   47  git remote remove origin
+   48  git remote add origin https://github.com/AlexisyahirAlvarezz/Sistemas-Operativos.git
+   49  git push -u origin main
+   50  git remote -v
+   51  git push -u origin main
+   52  git remote -v
+   53  git push -u origin main
+   54  git remote set-url origin https://github.com/AlexisyahirAlvarezz/Sistemas-Operativos-.git
+   55  git remote -v
+   56  git push -u origin main
+   57  git pull origin main --rebase
+   58  git push -u origin main
+   59  cd /home/alexis/canny/asistencia
+   60  ls 
+   61  git add mi_imagen.png
+   62  git add Captura de pantalla 2025-08-28.png
+   63  cd /home/alexis/canny/asistencia
+   64  ls
+   65  git add "Captura de pantalla 2025-08-28.png"
+   66  git commit -m Agrega imagen mi_imagen.png a la carpeta asistencia
+   67  git commit -m "Agrega imagen Captura de pantalla 2025-08-28.png a la carpeta asistencia"
+   68  git push origin main
+   69  cd /home/alexis/canny/asistencia
+   70  nano README.md
+   71  git add README.md
+   72  git commit -m "Agrega imagen Captura de pantalla al README"
+   73  ls
+   74  git add "Captura de pantalla 2025-08-28.png"
+   75  git status
+   76  ls
+   77  git add README.md "Captura de pantalla 2025-08-28.png"
+   78  git commit -m "Agrega imagen y actualización del README"
+   79  exit
+   80  sudo apt-get update
+   81  apt-get hepl
+   82  apt-get help
+   83  java
+   84  sudo apt-get upgrade
+   85  sudo apt-get upgrade -y
+   86  top
+   87  clear
+   88  top
+   89  clear
+   90  sudo apt-get install htop -y
+   91  htop
+   92  exit
+   93  ls
+   94  cd /home/alexis/canny/asistencia
+   95  mv README.m README.md
+   96  ls
+   97  git add README.md "Captura de pantalla 2025-08-28.png"
+   98  git commit -m "Agrega imagen y actualización del README"
+   99  git push origin main
+  100  ls
+  101  git add README.md "Captura de pantalla 2025-08-28.png"
+  102  git commit -m "Agrega imagen al README"
+  103  cd ..
+  104  mkdir Agosto25
+  105  ls
+  106  pwd
+  107  cd Agosto25
+  108  touch archivo1.txt
+  109  ls
+  110  cat > leame.txt
+  111  ls -l
+  112  cat > leame.txt
+  113  cd ~/canny/asistencia
+  114  mv "Captura de pantalla 2025-08-29 194742.jpg" captura_29ago.jpg
+  115  git add captura_29ago.jpg
+  116  mv ~/canny/Agosto25/"Captura de pantalla 2025-08-29 194742.png" ~/canny/asistencia/captura_29ago.png
+  117  git add captura_29ago.png
+  118  find ~/canny -iname "*Captura*2025-08-29*"
+  119  mv "Captura de pantalla 2025-08-29 194742.png" captura_29ago.png
+  120  git add captura_29ago.png
+  121  git commit -m "Agrega evidencia de comandos Linux (29 agosto)"
+  122  git push origin main
+  123  nano README.md
+  124  git add README.md
+  125  git commit -m "Actualiza README con evidencia de comandos Linux"
+  126  git push origin main
+  127  exit
+  128  ls
+  129  RPM: $ rpm -qa --last
+  130  RPM: $ rpm -qa 
+  131  rpm -qa
+  132  RedHat / CentOS: $ dnf list installed
+  133  OpenSuSE: $ zypper se --installed-only
+  134  Arch: $ pacman -Q
+  135  Debian / Ubuntu via DPKG: $ dpkg -l
+  136  Debian / Ubuntu via APT: $ apt list --installed
+  137  wc -l
+  138  RPM: $ rpm -qa --last | wc -l
+  139  clear
+  140  rpm -qa --last
+  141  dnf list installed
+  142  zypper se --installed-only
+  143  pacman -Q
+  144  dpkg -l
+  145  apt list --installed
+  146  clear
+  147  rpm -qa --last | wc -l
+  148  dnf list installed | wc -l
+  149  zypper se --installed-only | wc -l
+  150  pacman -Q | wc -l
+  151  dpkg -l | wc -l
+  152  apt list --installed | wc -l
+  153  clear}
+  154  q
+  155  clear
+  156  rpm -qa --last > packages.txt
+  157  dnf list installed > packages.txt
+  158  zypper se --installed-only > packages.txt
+  159  pacman -Q > packages.txt
+  160  dpkg -l > packages.txt
+  161  apt list --installed > packages.txt
+  162  exit
+  163  cd canny
+  164  mkdir Tareas
+  165  cd Tareas
+  166  ls
+  167  git add Tareas
+  168  cd canny
+  169  cd
+  170  cd canny
+  171  git init
+  172  git add Tareas
+  173  git commit -m "Agrega carpeta Tareas con PDF de paquetes instalados"
+  174  git push origin main
+  175  git remote -v
+  176  git branch -M main
+  177  git remote -v
+  178  git remote add origin https://github.com/AlexisyahirAlvarezz/Sistemas-Operativos-.git
+  179  git push -u origin main
+  180  git pull origin main --rebase
+  181  git add Tareas
+  182  git commit -m "Agrego carpeta Tareas con el archivo PAQUETES INSTALADOS.pdf"
+  183  ls Tareas
+  184  git commit -m "Agrego carpeta Tareas con el archivo PAQUETES INSTALADOS.pdf"
+  185  git push origin main
+  186  exit
+  187  htop
+  188  clear
+  189  history
+  190  clear
+  191  htop
+  192  chown --help
+  193  clear
+  194  login
+  195  login --help
+  196  top
+  197  clear
+  198  pwd
+  199  cd /..
+  200  pwd
+  201  ls -l
+  202  cd etc
+  203  ls -l
+  204  clear
+  205  initab
+  206  clear
+  207  init 0
+  208  init 1
+  209  sudo init 1
+  210  clear
+  211  top
+  212  systemd --help
+  213  systemd --version
+  214  systemd --show-status
+  215  systemctl --help
+  216  clear
+  217  cd ..
+  218  pwd
+  219  sudo apt install open-ssh -server
+  220  sudo apt-get  install open-ssh -server -y
+  221  sudo apt-get install open-ssh -server -y
+  222  sudo apt-get install open-ssh-server -y
+  223  ssh --version
+  224  sudo apt-get install openssh-server -y
+  225  ssh --version
+  226  sudo systemctl start ssh
+  227  sudo systemctl status
+  228  sudo systemctl stop ssh
+  229  sudo systemctl enable ssh
+  230  sudo systemctl status ssh
+  231  sudo service ssh start
+  232  sudo service ssh status
+  233  systemctl list-unit-files--type service --all
+  234  systemctl list-unit-files--type service--all
+  235  systemctl list-unit-files--type service==all
+  236  systemctl list-unit-files--type service--all
+  237  sudo systemctl list-unit-files--type service--all
+  238  sudo systemctl list-unit-files--type service --all
+  239  systemctl list-unit-files --type=service --all
+  240  service list-unit-files --type=service --all
+  241  systemctl list-unit-files --type=service --all
+  242  sudo systemctl status ssh
+  243  sudo systemctl disable ssh
+  244  sudo systemctl status ssh
+  245  systemctl list-unit-files --type=service --all
+  246  sudo systemctl list-unit-files --type=service --all
+  247  sudo systemctl status ssh
+  248  man systemctl
+  249  sudo systemctl grep running
+  250  sudo systemctl/ grep running
+  251  sudo systemctl grep running
+  252  sudo systemctl| grep running
+  253  sudo systemctl status ssh
+  254  sudo systemctl list-unit-files --state=failed
+  255  sudo systemctl reboot ssh
+  256  sudo systemctl reboot 
+  257  systemctl poweroff
+  258  sudo systemctl poweroff
+  259  q
+  260  exit
+  261  exit
+  262  ls
+  263  cd ~/canny/Tareas
+  264  ls
+  265  git add "HERRAMIENTAS LUNUX.pdf"
+  266  git add "HERRAMIENTAS LINUX.pdf"
+  267  git commit -m "Agrego PDF de herramientas en carpeta Tareas"
+  268  git push origin main
+  269  clear
+  270  exit
+  271  sudo apt update
+  272  sudo apt install tldr -y
+  273  tldr ls
+  274  date
+  275  tldr ls
+  276  sudo apt install fastfetch -y
+  277  sudo add-apt-repository ppa:zhangsongcui3371/fastfetch -y
+  278  sudo apt update
+  279  sudo apt install fastfetch -y
+  280  fastfetch --list-logos
+  281  fastfetch --logo arch
+  282  clear
+  283  sudo apt install bat -y
+  284  bat --version
+  285  batcat --version
+  286  bat archivo.txt
+  287  batcat archivo.txt
+  288  echo "Hola soy Alexis, esta es una prueba con batcat" > archivo.txt
+  289  batcat archivo.txt
+  290  sudo apt install btop -y
+  291  btop --version
+  292  btop
+  293  btop date
+  294  date
+  295  sudo apt install ncdu -y
+  296  ntcu --version
+  297  ncdu --version
+  298  date
+  299  ncdu ~
+  300  clear
+  301  exit
+  302  cd ~/canny/asistencia
+  303  ls
+  304  git add "asistencia 4 de septiembre.png" "aistencia 4 sep 1.png"
+  305  git commit -m "Evidencia TLDR: capturas del 4 de septiembre"
+  306  git push origin main
+  307  git pull origin main --rebase
+  308  git push origin main
+  309  mv "asistencia 4 de septiembre.pmg" ../README/
+  310  mv "asistencia 4 de septiembre.png" ../README/
+  311  exit
+  312  systemctl list-unit-files  --type service --all
+  313  main systemctl
+  314  man systemctl
+  315  sudo systemctl grep running
+  316  sudo systemctl| grep running
+  317  sudo aptget update
+  318  sudo apt update
+  319  sudo apt  install openssh-server -y
+  320  sudo systemctl start openssh
+  321  sudo systemctl start ssh
+  322  sudo systemctl status ssh
+  323  sudo apt get  install openssh-server -y
+  324  sudo systemctl stop ssh
+  325  sudo systemctl enable  ssh
+  326  sudo systemctl status  ssh
+  327  sudo systemctl| grep ssh
+  328  systemctl list-unit-files --state=failed
+  329  systemctl halt
+  330  systemctl poweroff
+  331  systemctl reboot
+  332  sudo systemctl halt
+  333  systemctl enable cgconfig.service
+  334  cd ../
+  335  cd etc
+  336  ls -l
+  337  cd etc
+  338  cd ..
+  339  ls -l
+  340  cd ect
+  341  cd ..etc
+  342  cd etc..
+  343  cd etc
+  344  ls
+  345  cd /
+  346  sudo apt-get install libcgroup
+  347  sudo systemctl status wsl.conf
+  348  sudo apt install net-tools/net-nat
+  349  sudo apt install net-tools
+  350  netstat -v
+  351  netstat -n-r
+  352  netstat -nr
+  353  netstat -ai
+  354  netstat -pnltu
+  355  cd ,,
+  356  cd ..
+  357  ls -l
+  358  cd /..
+  359  cd tct
+  360  cd etc
+  361  ls -l
+  362  cat /etc/passwd
+  363  cat /etc/shadwon
+  364  sudo cat /etc/shadow
+  365  sudo cat gropu
+  366  sudo cat group
+  367  cd /..
+  368  sudo cat /etc/shadow
+  369  sudo useradd tony
+  370  sudo cat/etc/shadow
+  371  sudo cat /etc/shadow
+  372  sudo cat /etc/group
+  373  clear
+  374  exit
+  375  exit
+  376  cd /canny
+  377  cd ~/canny
+  378  mkdir TrabajosEnClase
+  379  cp ~/canny/asistencia/"TC04SEP2025.png" TrabajosEnClase/
+  380  cp: cannot stat '/home/alexis/canny/asistencia/TC04SEP2025.png': No such file or director
+  381  ls ~/canny/asistencia
+  382  ls ~/canny/TrabajosEnClase
+  383  cd ~/canny
+  384  git add TrabajosEnClase/
+  385  git add TrabajosEnClase
+  386  git commit -m "Agrego carpeta TrabajosEnClase con evidencia TC04SEP2025"
+  387  git pull origin main --rebase
+  388  git push origin main
+  389  cd ~/canny
+  390  git add asistencia/
+  391  cd ~/canny/asistencia
+  392  rm -rf .git
+  393  cd ~/canny
+  394  git add asistencia/
+  395  git commit -m "Agrego carpeta asistencia como parte del repo principal"
+  396  git pull origin main --rebase
+  397  git push origin main
+  398  cd ~/canny
+  399  git add asistencia/
+  400  git commit -m "Agrego asistencia del 05 de septiembre 2025"
+  401  git add asistencia/
+  402  git status
+  403  ls -l ~/canny/asistencia
+  404  git add -f asistencia/*
+  405  cd ~/canny
+  406  git add asistencia/*viernes*.png
+  407  git status
+  408  cd ~/canny/asistencia
+  409  rm -rf .git
+  410  cd ~/canny
+  411  git add asistencia/*viernes*.png
+  412  cd ~/canny
+  413  git rm --cached asistencia
+  414  rm -rf .git/modules/asistencia
+  415  git add asistencia
+  416  git status
+  417  git commit -m "Agrego asistencia del viernes 05 de septiembre 2025 como carpeta normal"
+  418  git push origin main
+  419  exit
+  420  sudo useradd -u 1005 herrera
+  421  sudo cat/etc/groub
+  422  sudo cat/etc/group
+  423  sudo cat/etc/grout
+  424  sudo cat/etc/grou
+  425  sudo cat/etc/group
+  426  sudo cat /etc/group 
+  427  sudo useradd -u 1006 -d /home/m Linux -m -s /bin/bash alonso
+  428  sudo cat /etc/group 
+  429  sudo useradd -u 1006 -d /home/m Linux -m -s /bin/bash alonso
+  430  exit
+  431  pwd
+  432  ls *l
+  433  ls -l
+  434  ls
+  435  sudo cat /etc/passwd
+  436  sudo cat /etc/group
+  437  sudo cat /etc/shadow
+  438  sudo cat /etc/passwd
+  439  sudo useradd -u 1009 -d /home/monti -m -s /bin/bash antony
+  440  sudo cat /etc/group
+  441  sudo useradd tony2 -e 2025-09-12
+  442  sudo useradd tony2 -e 2025-09-12 -m alex
+  443  sudo useradd -e 2025-09-12 -f 10 -m tony2
+  444  sudo chage -l tony2
+  445  sudo chage -E 2025-09-21 tony2
+  446  sudo chage -l tony2
+  447  sudo useradd -e 2025-09-30 -f 10 -m tony2
+  448  sudo chage -l tony2
+  449  sudo useradd -f 7 -m tony3
+  450  sudo chage -l tony3
+  451  cd ~/canny/asistencia
+  452  git add .
+  453  git init
+  454  git remote add origin https://github.com/AlexisyahirAlvarezz/Sistemas-Operativos-.git
+  455  git add .
+  456  git commit -m "Subiendo capturas de asistencia 11/.9/2025"
+  457  git branch -M main
+  458  git push -u origin master
+  459  git push -u origin main
+  460  cd ~/canny/asistencia
+  461  git pull origin main --allow-unrelated-histories
+  462  cd ~/canny/asistencia
+  463  git add *asistenciaJueves11sep2025..*.png 
+  464  git add *Asistenciajueves11Sep2025*.png 
+  465  git add *asistencia11SEP2025*.png 
+  466  git commit -m "Agregando capturas jueves11sep2025"
+  467  git status
+  468  git push origin main
+  469  ls | grep -i "jueves11sep2025"
+  470  git add "Asistenciajueves11Sep2025.png"
+  471  git add "asistenciaJueves11sep2025..png"
+  472  git add "asistencia11SEP2025.png"
+  473  ls
+  474  git add "Asistenciajueves11Sep2025.png"
+  475  git add "Jueves11SEP2025.png"
+  476  git add "asistenciaJueves11sep2025...png"
+  477  git commit -m "Agregando capturas jueves11sep2025"
+  478  git status
+  479  git push origin main
+  480  git pull origin main --allow-unrelated-histories
+  481  git add <archivo_conflictivo>
+  482  git commit -m "Resolviendo conflictos con remoto"
+  483  git status
+  484  git push origin main
+  485  git pull origin main --allow-unrelated-histories --no-rebase
+  486  git status
+  487  ls -l ~/canny/asistencia | grep 11
+  488  cd ~/canny
+  489  git add asistencia/Asistenciajueves11Sep2025.png
+  490  git add asistencia/Jueves11SEP2025.png
+  491  git add asistencia/asistencia11SEP2025.png
+  492  git commit -m "Agrego asistencia del 11 de septiembre 2025"
+  493  git push origin main
+  494  exit
+  495  sudo adduser Alvarez
+  496  sudo adduser --allow-bad-names Alvarez
+  497  sudo usermd -l rodriguez Alvarez
+  498  sudo adduser --allow-bad-names Alvarez2
+  499  sudo usermd -l rodriguez Alvarez2
+  500  sudo adduser --allow-bad-names Alvarez2
+  501  sudo usermd -l rodriguez Alvarez2sudo usermod -l rodriguez Alvarez2
+  502  sudo usermod -l rodriguez Alvarez2
+  503  sudo cat/etc/shadow
+  504  sudo cat /etc/shadow
+  505  sudo userdel -r rodriguez
+  506  sudo cat /etc/shadow
+  507  sudo cat /etc/group
+  508  su Alvarez
+  509  sudo groupadd -g 1024 admins
+  510  sudo cat /etc/group
+  511  sudo cat /etc/shadow
+  512  sudo cat /etc/group
+  513  sudo cat /etc/passwd
+  514  sudo gpasswd -a Alvarez admins
+  515  sudo cat /etc/passwd
+  516  sudo cat /etc/group
+  517  sudo gpasswd -a fonseca admins
+  518  sudo gpasswd -a antony admins
+  519  sudo cat /etc/group
+  520  sudo groupmod -g 1025 admins
+  521  sudo cat /etc/group
+  522  sudo groupmod -n  admons admins
+  523  sudo cat /etc/group
+  524  sudo groupdel admons
+  525  sudo cat /etc/group
+  526  history 
+  527  exit
+  528  history
+  529  history > ~/canny/TrabajosEnClase/historial_11SEP2025.txt
